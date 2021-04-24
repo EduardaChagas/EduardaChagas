@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EduardaChagas&theme=react-dark)
