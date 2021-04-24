@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on remote sensing, time series and machine learning
-- 🌱 I’m currently learning Deep and Federated Learning
+- 🌱 I’m currently learning NLP, Deep and Federated Learning
 - 💬 Ask me about time series analysis
 
 ## My Github's statitics
