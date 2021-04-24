@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## My Github's statitics
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardaChagas&count_private=true&show_icons=true&theme=react">
+        <img height=260 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardaChagas&count_private=true&show_icons=true&theme=react">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaChagas&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+    <img height=260 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaChagas&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
   </a>
 </p>
 
