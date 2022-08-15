@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on remote sensing, time series and machine learning
 - 🌱 I’m currently learning NLP, Deep and Federated Learning
 - 💬 Ask me about time series analysis
+- 📫 You can reach me at linkedin: [linkedin/eduarda-chagas](https://www.linkedin.com/in/eduarda-chagas/)
 
 ## My Github's statitics
 <p align=center>
