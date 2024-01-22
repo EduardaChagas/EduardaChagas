@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ⚡ AI research at Dell Technologies
 - 🔭 I’m currently working on time series, explainability and Federated Learning
 - 🌱 I’m currently learning retrieval augmentation generation and LLMs
 - 💬 Ask me about time series analysis
