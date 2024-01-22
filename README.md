@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on time series, Deep and Federated Learning
-- 🌱 I’m currently learning NLP and computational statistics 
+- 🔭 I’m currently working on time series, explainability and Federated Learning
+- 🌱 I’m currently learning retrieval augmentation generation and LLMs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about time series analysis
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on remote sensing, time series and machine learning
-- 🌱 I’m currently learning NLP, Deep and Federated Learning
+- 🔭 I’m currently working on time series, explainability and Federated Learning
+- 🌱 I’m currently learning retrieval augmentation generation and LLMs
 - 💬 Ask me about time series analysis
 - 📫 You can reach me at linkedin: [linkedin/eduarda-chagas](https://www.linkedin.com/in/eduarda-chagas/)
 
